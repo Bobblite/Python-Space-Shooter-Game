@@ -24,15 +24,15 @@ _python3 SpaceShooter.py_
 The core features of the game are as follows:
 1. Main Menu
 2. PyGame Initialization
-- Window
-- Texture Loading 
+  - Window
+  - Texture Loading 
 3. Game Objects
-- Player Ship - Yellow
-- Enemy Ship - Red, Green, Blue
-- Lasers - Yellow, Red, Green, Blue
+  - Player Ship - Yellow
+  - Enemy Ship - Red, Green, Blue
+  - Lasers - Yellow, Red, Green, Blue
 4. Main Game Loop
-- Input Handling
-- Player Logic
-- Enemy Logic
-- Collision Detection & Resolution
-- Lose Condition
+  - Input Handling
+  - Player Logic
+  - Enemy Logic
+  - Collision Detection & Resolution
+  - Lose Condition
