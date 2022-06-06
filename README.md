@@ -12,7 +12,7 @@ As the player destroys all enemy spaceship in each wave, the game progressively 
 ## Building/Running
 The **Executable** directory contains the executable(SpaceShooter.exe) of the game built using [PyInstaller](https://pyinstaller.org/en/stable/#). To run the executable, simply double click the executable.
   
-The source file of the game is contained within a single **SpaceShooter.py**. The third-party module [PyGame](https://www.pygame.org/wiki/GettingStarted) is required to run the code. PyGame can be installed via Package Installer for Python ([PIP](https://pypi.org/project/pip/)), using the command:  
+The source file of the game is contained within a single **SpaceShooter.py**. The third-party module [PyGame](https://www.pygame.org/wiki/GettingStarted) is required to run the code. PyGame can be installed via [Package Installer for Python](https://pypi.org/project/pip/) (PIP), using the command:  
 _pip install pygame_
 In the directory of the source file, use command:  
 **For Windows**  
