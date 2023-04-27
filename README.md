@@ -1,6 +1,7 @@
 # Python-Space-Shooter-Game
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## About The Project
+## Description
 The project is a throwback to the old Atari game "Space-Invaders", developed in a casual bullet-hell style. The player is expected to destroy incoming enemies while simultaneouly dodging their attacks. The controls are as follows:
 - UP ARROW: Moves forward
 - DOWN ARROW: Moves backwards
@@ -9,7 +10,7 @@ The project is a throwback to the old Atari game "Space-Invaders", developed in 
 
 As the player destroys all enemy spaceship in each wave, the game progressively gets harder where more enemies are contained in the following waves.
 
-## Building/Running
+## How to use
 The **Executable** directory contains the executable(SpaceShooter.exe) of the game built using [PyInstaller](https://pyinstaller.org/en/stable/#). To run the executable, simply double click the executable.
   
 The source file of the game is contained within a single **SpaceShooter.py**. The third-party module [PyGame](https://www.pygame.org/wiki/GettingStarted) is required to run the code. PyGame can be installed via [Package Installer for Python](https://pypi.org/project/pip/) (PIP), using the command:  
